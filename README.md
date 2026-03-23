@@ -37,4 +37,4 @@ Always ensure you have **explicit written permission** before scanning any netwo
 
 ## 👤 Author
 
-[chetan-1702](https://github.com/chetan-1702) · Porto Business School — Business Analytics & AI
+[chetan-1702](https://github.com/chetan-1702)
